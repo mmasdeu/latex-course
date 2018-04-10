@@ -26,7 +26,7 @@ tar xzf latex-course.tgz
 rm latex-course.tgz
 cd ..
 
-echo '<html><head><title>latex-course</title></head><body><a href="https://github.com/jdleesmiller/latex-course">Please see repository.</a></body></html>' > index.html
+echo '<html><head><title>latex-course</title></head><body><a href="https://github.com/mmasdeu/latex-course">Please see repository.</a></body></html>' > index.html
 
 cd ..
 
